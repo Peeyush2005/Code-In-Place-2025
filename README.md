@@ -2,8 +2,6 @@
 
 Welcome to my **Code In Place 2025** repository — a personal log of my journey through Stanford's renowned introductory computer science course, based on CS106A.
 
-This course is designed for beginners and introduces programming fundamentals using **Python** and **Karel the Robot**, an educational language created to simplify algorithmic thinking.
-
 ---
 
 ## 🌟 About the Course
